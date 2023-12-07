@@ -48,10 +48,13 @@
         float: left;
         width: 50%;
     }
+
+    div#formulario > h1 {
+        font-size: 2em;
+    }
+
     #formulario  > p {
-        text-align: lef;
-        font-weight: 700;
-        font-size: 1em;
+        font-size: 1.2em;
     }
     
 }
